@@ -1,1 +1,1 @@
-# Multiplicador-binarios
+# Digital 1
