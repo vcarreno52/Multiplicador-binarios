@@ -29,6 +29,6 @@ Este repositorio contiene el diseño y la lógica para un multiplicador binario 
 
 <div align="center">
   
-**Desarrollado para el curso de Digital 1** Escuela de Ingeniería
+**Desarrollado para el curso de Digital 1** Universidad Nacional de Colombia - Facultad de ingeniería - Departamento mecánica y mecatrónica
 </div>
 
