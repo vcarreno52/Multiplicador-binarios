@@ -27,6 +27,26 @@ Este repositorio contiene el diseño y la lógica para un multiplicador binario 
 
 ---
 
+---
+
+## División de binarios
+### *Lógica y Control*
+
+</div>
+
+### 📊 Diagrama de Flujo: DIVISIÓN
+> Estructura lógica del proceso de verificación de paridad.
+![Vista previa](https://github.com/vcarreno52/Multiplicador-binarios/blob/main/Diagrma%20de%20flujo%20divisi%C3%B3n.jpeg)
+
+### ⚙️ Camino de datos 
+> Representación de las transiciones del sistema.
+![Vista previa](https://github.com/vcarreno52/Multiplicador-binarios/blob/main/camino%20de%20datos%20divisi%C3%B3n.jpeg)
+
+### ⚙️ Máquina de Estados
+> Representación de los estados del sistema
+![Vista previa](https://github.com/vcarreno52/Multiplicador-binarios/blob/main/Maquina%20de%20estados%20divisi%C3%B3n.jpeg)
+
+
 <div align="center">
   
 **Desarrollado para el curso de Digital 1** Universidad Nacional de Colombia - Facultad de ingeniería - Departamento mecánica y mecatrónica
